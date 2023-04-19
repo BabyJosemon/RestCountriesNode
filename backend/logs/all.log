@@ -1,0 +1,651 @@
+2023-04-06 22:51:25:5125 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:51:42:5142 [35mhttp[39m [35m::1 GET /api 200 2 - 1204.311 ms[39m
+[35m[39m
+2023-04-06 22:52:45:5245 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:53:17:5317 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:57:32:5732 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:57:47:5747 [35mhttp[39m [35m::1 GET /api 200 828425 - 10038.671 ms[39m
+[35m[39m
+2023-04-06 22:58:09:589 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:58:41:5841 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:58:59:5859 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 22:59:05:595 [35mhttp[39m [35m::1 GET /api 200 828425 - 1710.290 ms[39m
+[35m[39m
+2023-04-06 23:00:31:031 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-06 23:04:06:46 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 18:45:24:4524 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 18:47:02:472 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 18:49:51:4951 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 18:50:46:5046 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:16:59:1659 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:19:13:1913 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:22:22:2222 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:22:28:2228 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:22:40:2240 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:22:50:2250 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:23:48:2348 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:24:35:2435 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:26:12:2612 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:26:40:2640 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:27:37:2737 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:32:47:3247 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:36:53:3653 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:39:02:392 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:39:52:3952 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:39:58:3958 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:40:00:400 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:40:27:4027 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:43:34:4334 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:44:05:445 [35mhttp[39m [35m::ffff:127.0.0.1 GET / 404 139 - 1.571 ms[39m
+[35m[39m
+2023-04-07 19:45:09:459 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api 200 828425 - 2012.267 ms[39m
+[35m[39m
+2023-04-07 19:45:59:4559 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api 200 - - 6438.319 ms[39m
+[35m[39m
+2023-04-07 19:49:05:495 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:49:19:4919 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:49:29:4929 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:51:31:5131 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:52:22:5222 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:11:29:1129 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:11:41:1141 [35mhttp[39m [35m::ffff:127.0.0.1 GET / 404 139 - 2.456 ms[39m
+[35m[39m
+2023-04-07 19:13:18:1318 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-07 19:13:24:1324 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api 200 828425 - 2600.478 ms[39m
+[35m[39m
+2023-04-17 13:01:48:148 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:06:15:615 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:08:40:840 [35mhttp[39m [35m::ffff:127.0.0.1 GET /india 404 144 - 2.691 ms[39m
+[35m[39m
+2023-04-17 13:09:37:937 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:09:45:945 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/india/true 200 3293 - 487.332 ms[39m
+[35m[39m
+2023-04-17 13:10:12:1012 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 404 146 - 1.911 ms[39m
+[35m[39m
+2023-04-17 13:16:52:1652 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:16:59:1659 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ 404 143 - 4.153 ms[39m
+[35m[39m
+2023-04-17 13:17:12:1712 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/all 200 828425 - 970.919 ms[39m
+[35m[39m
+2023-04-17 13:17:19:1719 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/// 404 145 - 0.619 ms[39m
+[35m[39m
+2023-04-17 13:17:23:1723 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api// 404 144 - 0.349 ms[39m
+[35m[39m
+2023-04-17 13:17:40:1740 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:17:42:1742 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api// 404 144 - 2.783 ms[39m
+[35m[39m
+2023-04-17 13:17:45:1745 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ 404 143 - 1.448 ms[39m
+[35m[39m
+2023-04-17 13:19:35:1935 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:19:42:1942 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/india/ 404 149 - 3.000 ms[39m
+[35m[39m
+2023-04-17 13:25:38:2538 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:26:06:266 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:27:21:2721 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:30:00:300 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:30:06:306 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/all 200 - - 947.545 ms[39m
+[35m[39m
+2023-04-17 13:30:12:3012 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/india/ 200 7136 - 392.396 ms[39m
+[35m[39m
+2023-04-17 13:30:34:3034 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 200 21875 - 359.592 ms[39m
+[35m[39m
+2023-04-17 13:33:14:3314 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:33:19:3319 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-17 13:33:19:3319 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 200 21875 - 462.275 ms[39m
+[35m[39m
+2023-04-17 13:46:42:4642 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-17 13:46:42:4642 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind/true 200 21875 - 416.521 ms[39m
+[35m[39m
+2023-04-17 13:46:53:4653 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/asfa?fullText=false[39m
+2023-04-17 13:46:53:4653 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/asfa/true 200 36 - 451.007 ms[39m
+[35m[39m
+2023-04-17 13:47:33:4733 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:47:36:4736 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:47:45:4745 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:47:57:4757 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-17 13:47:57:4757 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 200 - - 461.748 ms[39m
+[35m[39m
+2023-04-17 13:53:58:5358 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:54:23:5423 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:54:43:5443 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:55:02:552 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:55:11:5511 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:55:13:5513 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-17 13:55:19:5519 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-17 13:55:19:5519 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 200 - - 537.965 ms[39m
+[35m[39m
+2023-04-17 13:55:30:5530 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind/412 400 26 - 1.033 ms[39m
+[35m[39m
+2023-04-17 13:55:30:5530 [35mhttp[39m [35m::ffff:127.0.0.1 GET /favicon.ico 404 150 - 2.376 ms[39m
+[35m[39m
+2023-04-17 13:55:41:5541 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=true[39m
+2023-04-17 13:55:41:5541 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind/true 200 36 - 395.076 ms[39m
+[35m[39m
+2023-04-17 13:55:53:5553 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/32/true 400 22 - 0.342 ms[39m
+[35m[39m
+2023-04-17 14:00:00:00 [32minfo[39m [32mServer is running on port 3000[39m
+2023-04-18 14:04:47:447 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 14:05:20:520 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-18 14:05:20:520 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/ind 200 21875 - 930.119 ms[39m
+[35m[39m
+2023-04-18 14:05:48:548 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/bharat?fullText=false[39m
+2023-04-18 14:05:48:548 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/bharat 200 3293 - 554.983 ms[39m
+[35m[39m
+2023-04-18 14:21:57:2157 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 14:22:39:2239 [35mhttp[39m [35m::1 GET /api/all 200 828425 - 4461.922 ms[39m
+[35m[39m
+2023-04-18 14:22:41:2241 [35mhttp[39m [35m::1 GET /api/all 200 - - 1750.778 ms[39m
+[35m[39m
+2023-04-18 20:44:57:4457 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:45:36:4536 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:45:36:4536 [35mhttp[39m [35m::ffff:127.0.0.1 GET /api/india/true 200 3293 - 910.238 ms[39m
+[35m[39m
+2023-04-18 20:45:54:4554 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:46:14:4614 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:46:14:4614 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 732.790 ms[39m
+[35m[39m
+2023-04-18 20:50:18:5018 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:50:36:5036 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:51:09:519 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:51:09:519 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 609.120 ms[39m
+[35m[39m
+2023-04-18 20:51:09:519 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:51:09:519 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 156.410 ms[39m
+[35m[39m
+2023-04-18 20:52:55:5255 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:52:57:5257 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:52:57:5257 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 698.987 ms[39m
+[35m[39m
+2023-04-18 20:52:57:5257 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:52:57:5257 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 241.430 ms[39m
+[35m[39m
+2023-04-18 20:53:04:534 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:04:534 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 579.451 ms[39m
+[35m[39m
+2023-04-18 20:53:05:535 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:05:535 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 614.707 ms[39m
+[35m[39m
+2023-04-18 20:53:05:535 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:05:535 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 210.843 ms[39m
+[35m[39m
+2023-04-18 20:53:05:535 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:05:535 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 177.010 ms[39m
+[35m[39m
+2023-04-18 20:53:06:536 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:06:536 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 143.029 ms[39m
+[35m[39m
+2023-04-18 20:53:06:536 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:06:536 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 180.609 ms[39m
+[35m[39m
+2023-04-18 20:53:26:5326 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 20:53:27:5327 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 20:53:27:5327 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 761.329 ms[39m
+[35m[39m
+2023-04-18 21:01:39:139 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:01:41:141 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:01:41:141 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 1033.937 ms[39m
+[35m[39m
+2023-04-18 21:01:51:151 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:01:51:151 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 501.247 ms[39m
+[35m[39m
+2023-04-18 21:01:51:151 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:01:51:151 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 560.941 ms[39m
+[35m[39m
+2023-04-18 21:01:51:151 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:01:51:151 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 189.152 ms[39m
+[35m[39m
+2023-04-18 21:02:34:234 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:02:57:257 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:02:57:257 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 623.049 ms[39m
+[35m[39m
+2023-04-18 21:02:57:257 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:02:57:257 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 775.317 ms[39m
+[35m[39m
+2023-04-18 21:03:52:352 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:03:57:357 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:04:24:424 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:04:31:431 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:04:48:448 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:04:48:448 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 661.449 ms[39m
+[35m[39m
+2023-04-18 21:04:48:448 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:04:48:448 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 806.346 ms[39m
+[35m[39m
+2023-04-18 21:04:48:448 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:04:48:448 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 228.576 ms[39m
+[35m[39m
+2023-04-18 21:05:35:535 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:05:36:536 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:05:36:536 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 759.902 ms[39m
+[35m[39m
+2023-04-18 21:05:36:536 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:05:36:536 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 237.123 ms[39m
+[35m[39m
+2023-04-18 21:05:40:540 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:05:40:540 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 144.925 ms[39m
+[35m[39m
+2023-04-18 21:05:40:540 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:05:40:540 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 144.365 ms[39m
+[35m[39m
+2023-04-18 21:05:40:540 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:05:40:540 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 546.287 ms[39m
+[35m[39m
+2023-04-18 21:06:15:615 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-18 21:06:17:617 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:06:17:617 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 827.351 ms[39m
+[35m[39m
+2023-04-18 21:06:19:619 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:06:19:619 [35mhttp[39m [35m::1 GET /api/india/true 200 - - 188.543 ms[39m
+[35m[39m
+2023-04-18 21:06:20:620 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:06:20:620 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 208.410 ms[39m
+[35m[39m
+2023-04-18 21:06:20:620 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-18 21:06:20:620 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 645.034 ms[39m
+[35m[39m
+2023-04-19 00:59:51:5951 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 00:59:58:5958 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-19 00:59:58:5958 [35mhttp[39m [35m::1 GET /api/india/true 200 3293 - 561.184 ms[39m
+[35m[39m
+2023-04-19 01:01:50:150 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:02:35:235 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:04:02:42 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:05:14:514 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:06:48:648 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:07:38:738 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:08:47:847 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:09:33:933 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:09:47:947 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:11:26:1126 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:16:06:166 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:17:21:1721 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:17:37:1737 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:19:09:199 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:20:46:2046 [35mhttp[39m [35m::1 GET /api/main.e8bc4ea927f89de6aa17.hot-update.json 400 22 - 3.204 ms[39m
+[35m[39m
+2023-04-19 01:21:01:211 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 01:21:01:211 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 7136 - 647.938 ms[39m
+[35m[39m
+2023-04-19 01:21:30:2130 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:21:44:2144 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 01:22:12:2212 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 01:22:12:2212 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 450.454 ms[39m
+[35m[39m
+2023-04-19 01:22:12:2212 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 01:22:12:2212 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 130.146 ms[39m
+[35m[39m
+2023-04-19 01:22:23:2223 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind?fullText=false[39m
+2023-04-19 01:22:23:2223 [35mhttp[39m [35m::1 GET /api/ind?fullText=false 200 21875 - 374.696 ms[39m
+[35m[39m
+2023-04-19 12:37:40:3740 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:39:08:398 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:39:08:398 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 597.729 ms[39m
+[35m[39m
+2023-04-19 12:39:10:3910 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:39:10:3910 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 146.407 ms[39m
+[35m[39m
+2023-04-19 12:39:12:3912 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:39:12:3912 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 7136 - 127.417 ms[39m
+[35m[39m
+2023-04-19 12:39:33:3933 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/dutch?fullText=false[39m
+2023-04-19 12:39:33:3933 [35mhttp[39m [35m::1 GET /api/dutch?fullText=false 200 2869 - 410.868 ms[39m
+[35m[39m
+2023-04-19 12:40:36:4036 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:40:36:4036 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 383.431 ms[39m
+[35m[39m
+2023-04-19 12:41:36:4136 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:41:36:4136 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 607.649 ms[39m
+[35m[39m
+2023-04-19 12:42:03:423 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:44:52:4452 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:45:10:4510 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:45:10:4510 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 498.596 ms[39m
+[35m[39m
+2023-04-19 12:45:37:4537 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:45:50:4550 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 12:45:50:4550 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 486.483 ms[39m
+[35m[39m
+2023-04-19 12:46:03:463 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:46:18:4618 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:46:37:4637 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:46:53:4653 [35mhttp[39m [35m::1 GET /api/india?fullText=true 404 148 - 3.067 ms[39m
+[35m[39m
+2023-04-19 12:47:17:4717 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 404 151 - 0.534 ms[39m
+[35m[39m
+2023-04-19 12:48:13:4813 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 404 151 - 0.745 ms[39m
+[35m[39m
+2023-04-19 12:48:48:4848 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:49:01:491 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/japana?fullText=false[39m
+2023-04-19 12:49:01:491 [35mhttp[39m [35m::1 GET /api/japana?fullText=true 200 36 - 471.890 ms[39m
+[35m[39m
+2023-04-19 12:51:59:5159 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 12:52:38:5238 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/japan?fullText=false[39m
+2023-04-19 12:52:38:5238 [35mhttp[39m [35m::1 GET /api/japan?fullText=true 200 2567 - 463.141 ms[39m
+[35m[39m
+2023-04-19 12:59:01:591 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:00:20:020 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:00:43:043 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/undefined?fullText=false[39m
+2023-04-19 13:00:43:043 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 36 - 512.873 ms[39m
+[35m[39m
+2023-04-19 13:00:54:054 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/undefined?fullText=false[39m
+2023-04-19 13:00:54:054 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 380.198 ms[39m
+[35m[39m
+2023-04-19 13:02:31:231 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:02:51:251 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:03:01:31 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/undefined?fullText=false[39m
+2023-04-19 13:03:01:31 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 36 - 517.139 ms[39m
+[35m[39m
+2023-04-19 13:06:24:624 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:06:29:629 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 13:06:29:629 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 7136 - 731.719 ms[39m
+[35m[39m
+2023-04-19 13:06:58:658 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:07:32:732 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:07:35:735 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=false[39m
+2023-04-19 13:07:35:735 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 7136 - 499.891 ms[39m
+[35m[39m
+2023-04-19 13:08:40:840 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:08:43:843 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/undefined?fullText=false[39m
+2023-04-19 13:08:43:843 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 36 - 491.047 ms[39m
+[35m[39m
+2023-04-19 13:09:57:957 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/undefined?fullText=false[39m
+2023-04-19 13:09:57:957 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 384.197 ms[39m
+[35m[39m
+2023-04-19 13:10:26:1026 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:10:30:1030 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=false[39m
+2023-04-19 13:10:30:1030 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 478.445 ms[39m
+[35m[39m
+2023-04-19 13:13:49:1349 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:13:58:1358 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:14:14:1414 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:14:18:1418 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 404 151 - 2.139 ms[39m
+[35m[39m
+2023-04-19 13:14:47:1447 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:16:04:164 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:16:12:1612 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:16:24:1624 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=false[39m
+2023-04-19 13:16:24:1624 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 493.744 ms[39m
+[35m[39m
+2023-04-19 13:16:55:1655 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:16:58:1658 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:16:58:1658 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 469.311 ms[39m
+[35m[39m
+2023-04-19 13:17:34:1734 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=false 400 26 - 1.236 ms[39m
+[35m[39m
+2023-04-19 13:17:57:1757 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:18:00:180 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=false 400 26 - 4.043 ms[39m
+[35m[39m
+2023-04-19 13:19:15:1915 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:19:19:1919 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=false[39m
+2023-04-19 13:19:19:1919 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=false 200 105 - 468.854 ms[39m
+[35m[39m
+2023-04-19 13:19:42:1942 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:19:50:1950 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/indiaadw?fullText=false[39m
+2023-04-19 13:19:50:1950 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=false 200 105 - 522.592 ms[39m
+[35m[39m
+2023-04-19 13:21:34:2134 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:21:39:2139 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=false[39m
+2023-04-19 13:21:39:2139 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=false 200 36 - 683.938 ms[39m
+[35m[39m
+2023-04-19 13:21:47:2147 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:21:47:2147 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 384.203 ms[39m
+[35m[39m
+2023-04-19 13:21:52:2152 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=True 400 26 - 1.045 ms[39m
+[35m[39m
+2023-04-19 13:22:54:2254 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:23:03:233 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:23:03:233 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 500.257 ms[39m
+[35m[39m
+2023-04-19 13:23:32:2332 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:23:35:2335 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:23:35:2335 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 476.659 ms[39m
+[35m[39m
+2023-04-19 13:25:33:2533 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:25:39:2539 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:26:38:2638 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:26:42:2642 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/indiaadw?fullText=true[39m
+2023-04-19 13:26:42:2642 [35mhttp[39m [35m::1 GET /api/indiaadw?fullText=true 200 36 - 474.812 ms[39m
+[35m[39m
+2023-04-19 13:27:22:2722 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-19 13:27:22:2722 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 3293 - 425.761 ms[39m
+[35m[39m
+2023-04-19 13:28:49:2849 [35mhttp[39m [35m::1 GET /api/eesti?fullText=false 400 26 - 2.136 ms[39m
+[35m[39m
+2023-04-19 13:30:23:3023 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:30:27:3027 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/eesti?fullText=false[39m
+2023-04-19 13:30:27:3027 [35mhttp[39m [35m::1 GET /api/eesti?fullText=false 200 3062 - 480.609 ms[39m
+[35m[39m
+2023-04-19 13:31:09:319 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:31:12:3112 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/eesti[39m
+2023-04-19 13:31:12:3112 [35mhttp[39m [35m::1 GET /api/eesti?fullText=false 200 3062 - 474.468 ms[39m
+[35m[39m
+2023-04-19 13:31:21:3121 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:31:28:3128 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-19 13:31:28:3128 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 3293 - 495.710 ms[39m
+[35m[39m
+2023-04-19 13:31:38:3138 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ind[39m
+2023-04-19 13:31:38:3138 [35mhttp[39m [35m::1 GET /api/ind?fullText=false 200 - - 401.213 ms[39m
+[35m[39m
+2023-04-19 13:31:53:3153 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:32:09:329 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/eesti[39m
+2023-04-19 13:32:09:329 [35mhttp[39m [35m::1 GET /api/eesti?fullText=false 200 3062 - 492.929 ms[39m
+[35m[39m
+2023-04-19 13:32:22:3222 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ireland?fullText=true[39m
+2023-04-19 13:32:22:3222 [35mhttp[39m [35m::1 GET /api/ireland?fullText=true 200 3001 - 506.936 ms[39m
+[35m[39m
+2023-04-19 13:32:43:3243 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ireasdw?fullText=true[39m
+2023-04-19 13:32:43:3243 [35mhttp[39m [35m::1 GET /api/ireasdw?fullText=true 200 36 - 397.574 ms[39m
+[35m[39m
+2023-04-19 13:35:18:3518 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:35:33:3533 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:35:38:3538 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:35:49:3549 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:36:07:367 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:36:12:3612 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:36:21:3621 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:36:40:3640 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:37:01:371 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:37:03:373 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:37:06:376 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:38:09:389 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:38:18:3818 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/ireasdw?fullText=true[39m
+2023-04-19 13:38:18:3818 [35mhttp[39m [35m::1 GET /api/ireasdw?fullText=true 200 - - 524.365 ms[39m
+[35m[39m
+2023-04-19 13:39:28:3928 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelaythjn?fullText=true[39m
+2023-04-19 13:39:28:3928 [35mhttp[39m [35m::1 GET /api/irelaythjn?fullText=true 200 - - 385.167 ms[39m
+[35m[39m
+2023-04-19 13:40:23:4023 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:40:35:4035 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:40:39:4039 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelaythjn?fullText=true[39m
+2023-04-19 13:40:39:4039 [35mhttp[39m [35m::1 GET /api/irelaythjn?fullText=true 200 - - 483.308 ms[39m
+[35m[39m
+2023-04-19 13:42:24:4224 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:42:28:4228 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelaythjn?fullText=true[39m
+2023-04-19 13:42:28:4228 [35mhttp[39m [35m::1 GET /api/irelaythjn?fullText=true 200 - - 452.352 ms[39m
+[35m[39m
+2023-04-19 13:43:51:4351 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:44:22:4422 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:44:27:4427 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelaythjn?fullText=true[39m
+2023-04-19 13:44:27:4427 [35mhttp[39m [35m::1 GET /api/irelaythjn?fullText=true 200 - - 467.000 ms[39m
+[35m[39m
+2023-04-19 13:45:04:454 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:45:13:4513 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:46:03:463 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:47:47:4747 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:48:36:4836 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:48:44:4844 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india?fullText=true[39m
+2023-04-19 13:48:44:4844 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 - - 499.171 ms[39m
+[35m[39m
+2023-04-19 13:48:53:4853 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india[39m
+2023-04-19 13:48:53:4853 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 382.572 ms[39m
+[35m[39m
+2023-04-19 13:49:17:4917 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 13:49:28:4928 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/india[39m
+2023-04-19 13:49:28:4928 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 524.957 ms[39m
+[35m[39m
+2023-04-19 13:50:24:5024 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:19:14:1914 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:24:50:2450 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:29:24:2924 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:30:17:3017 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelandng?fullText=true[39m
+2023-04-19 21:30:17:3017 [35mhttp[39m [35m::1 GET /api/irelandng?fullText=true 200 36 - 1557.374 ms[39m
+[35m[39m
+2023-04-19 21:30:25:3025 [32minfo[39m [32mThe URL used is https://restcountries.com/v3.1/name/irelandng?fullText=true[39m
+2023-04-19 21:30:25:3025 [35mhttp[39m [35m::1 GET /api/irelandng?fullText=true 200 - - 850.121 ms[39m
+[35m[39m
+2023-04-19 21:32:22:3222 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:33:09:339 [35mhttp[39m [35m::1 GET /api/irelandng?fullText=true 200 - - 1024.345 ms[39m
+[35m[39m
+2023-04-19 21:38:15:3815 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:38:54:3854 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:39:11:3911 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 200 36 - 1264.731 ms[39m
+[35m[39m
+2023-04-19 21:39:53:3953 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:40:03:403 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 200 - - 999.770 ms[39m
+[35m[39m
+2023-04-19 21:43:49:4349 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:44:35:4435 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:44:40:4440 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 200 - - 3.112 ms[39m
+[35m[39m
+2023-04-19 21:45:28:4528 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:47:41:4741 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:59:01:591 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:59:10:5910 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:59:29:5929 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:02:15:215 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:02:32:232 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 404 31 - 1537.283 ms[39m
+[35m[39m
+2023-04-19 22:02:47:247 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:02:53:253 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 404 31 - 1011.404 ms[39m
+[35m[39m
+2023-04-19 22:03:37:337 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:04:48:448 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:08:09:89 [35mhttp[39m [35m::1 GET /api/inflkanf?fullText=false 404 31 - 1548.589 ms[39m
+[35m[39m
+2023-04-19 22:08:50:850 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:09:44:944 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:15:53:1553 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:17:05:175 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:18:04:184 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:19:30:1930 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:21:17:2117 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:22:14:2214 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:22:47:2247 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:23:18:2318 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:24:00:240 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:24:55:2455 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:25:52:2552 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:26:41:2641 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:28:44:2844 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:30:46:3046 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:32:02:322 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:32:36:3236 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:33:01:331 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:33:55:3355 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:34:07:347 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:35:04:354 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:36:26:3626 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:37:18:3718 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:37:31:3731 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:37:45:3745 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:37:48:3748 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:38:22:3822 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:38:33:3833 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:38:58:3858 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:39:30:3930 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:39:44:3944 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:39:47:3947 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:39:58:3958 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:40:36:4036 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:40:55:4055 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:41:37:4137 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:42:09:429 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:42:15:4215 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:42:23:4223 [35mhttp[39m [35m::1 GET /api/India?fullText=false 200 7136 - 1166.050 ms[39m
+[35m[39m
+2023-04-19 22:42:40:4240 [35mhttp[39m [35m::1 GET /api/in?fullText=false 200 243612 - 3487.972 ms[39m
+[35m[39m
+2023-04-19 22:43:08:438 [35mhttp[39m [35m::1 GET /api/in?fullText=false 200 - - 1866.500 ms[39m
+[35m[39m
+2023-04-19 22:44:43:4443 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:44:51:4451 [35mhttp[39m [35m::1 GET /api/India?fullText=false 200 - - 1053.236 ms[39m
+[35m[39m
+2023-04-19 22:45:01:451 [35mhttp[39m [35m::1 GET /api/In?fullText=false 200 243612 - 1652.217 ms[39m
+[35m[39m
+2023-04-19 22:47:23:4723 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 1071.925 ms[39m
+[35m[39m
+2023-04-19 22:47:37:4737 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 817.929 ms[39m
+[35m[39m
+2023-04-19 22:48:22:4822 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 922.364 ms[39m
+[35m[39m
+2023-04-19 22:49:11:4911 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:49:50:4950 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:50:07:507 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 1161.848 ms[39m
+[35m[39m
+2023-04-19 22:50:31:5031 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:50:39:5039 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 1105.332 ms[39m
+[35m[39m
+2023-04-19 22:51:40:5140 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:51:49:5149 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 4497.342 ms[39m
+[35m[39m
+2023-04-19 22:52:24:5224 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:52:34:5234 [35mhttp[39m [35m::1 GET /api/asda?fullText=false 404 31 - 1099.700 ms[39m
+[35m[39m
+2023-04-19 22:53:25:5325 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:55:48:5548 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:57:04:574 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:58:21:5821 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:58:28:5828 [35mhttp[39m [35m::1 GET /api/asad?fullText=false 404 44 - 1152.880 ms[39m
+[35m[39m
+2023-04-19 22:58:40:5840 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:58:52:5852 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 22:59:04:594 [35mhttp[39m [35m::1 GET /api/india?fullText=true 200 3293 - 1210.531 ms[39m
+[35m[39m
+2023-04-19 22:59:14:5914 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 7136 - 849.436 ms[39m
+[35m[39m
+2023-04-19 23:07:59:759 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 23:08:40:840 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 23:10:06:106 [35mhttp[39m [35m::1 GET /api/India?fullText=false 200 7136 - 1286.629 ms[39m
+[35m[39m
+2023-04-19 19:20:28:2028 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 19:23:44:2344 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 771.212 ms[39m
+[35m[39m
+2023-04-19 19:28:47:2847 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 562.397 ms[39m
+[35m[39m
+2023-04-19 19:30:17:3017 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 586.204 ms[39m
+[35m[39m
+2023-04-19 19:44:10:4410 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 722.347 ms[39m
+[35m[39m
+2023-04-19 19:47:00:470 [35mhttp[39m [35m::1 GET /api/america?fullText=false 200 8807 - 609.693 ms[39m
+[35m[39m
+2023-04-19 19:47:09:479 [35mhttp[39m [35m::1 GET /api/cuba?fullText=false 200 3100 - 705.338 ms[39m
+[35m[39m
+2023-04-19 19:56:15:5615 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 532.700 ms[39m
+[35m[39m
+2023-04-19 20:01:09:19 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 678.904 ms[39m
+[35m[39m
+2023-04-19 20:03:29:329 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 653.635 ms[39m
+[35m[39m
+2023-04-19 20:05:03:53 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 613.305 ms[39m
+[35m[39m
+2023-04-19 20:05:10:510 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 690.430 ms[39m
+[35m[39m
+2023-04-19 20:12:03:123 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 7136 - 722.687 ms[39m
+[35m[39m
+2023-04-19 20:14:03:143 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 578.450 ms[39m
+[35m[39m
+2023-04-19 20:15:45:1545 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 575.328 ms[39m
+[35m[39m
+2023-04-19 20:17:01:171 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 564.239 ms[39m
+[35m[39m
+2023-04-19 20:32:32:3232 [35mhttp[39m [35m::1 GET /api/india?fullText=false 200 - - 675.039 ms[39m
+[35m[39m
+2023-04-19 20:40:27:4027 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:45:11:4511 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:46:25:4625 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:46:33:4633 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:47:04:474 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:47:56:4756 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:48:45:4845 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 20:48:59:4859 [32minfo[39m [32mServer is running on port 3001[39m
+2023-04-19 21:17:55:1755 [32minfo[39m [32mServer is running on port 3001[39m

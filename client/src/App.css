@@ -1,0 +1,33 @@
+.dark-mode {
+    color: white;
+    background-color: #424242;
+    border: none;
+}
+
+.dark-mode .flag {
+    width: 50px;
+    height: auto;
+}
+
+.dark-mode-table {
+    color: #fff;
+}
+
+.MuiButton-contained {
+  color: #fff;
+}
+.MuiCheckbox-root{
+  color: white;
+}
+.MuiTableCell-root {
+  color: #fff;
+  border-bottom: 1px solid #555;
+}
+.MuiTableHead-root {
+  background-color: #2196f3;
+}
+
+.MuiTableBody-root{
+    background-color: #757575;
+}
+

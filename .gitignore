@@ -1,0 +1,4 @@
+#Ignore Node Modules
+backend/node_modules/
+
+client/node_modules/
