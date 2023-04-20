@@ -29,7 +29,7 @@ function App() {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        fetch(`/api/${searchTerm}?fullText=${fullText}`)
+        fetch(`https://rest-countries-api-3tac.onrender.com/api/${searchTerm}?fullText=${fullText}`)
             .then((res) => res.json())
             .then((data) => {
                 if (data?.status === 404) {
