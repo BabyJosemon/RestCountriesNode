@@ -29,7 +29,7 @@ function App() {
 
     const handleSubmit = (e) => {
         e.preventDefault()
-        fetch(`/${searchTerm}?fullText=${fullText}`)
+        fetch(`/api/${searchTerm}?fullText=${fullText}`)
             .then((res) => res.json())
             .then((data) => {
                 if (data?.status === 404) {
