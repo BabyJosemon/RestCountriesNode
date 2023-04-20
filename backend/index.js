@@ -13,7 +13,7 @@ const PORT = process.env.PORT || 3001
 
 app.use('/api', CountriesRouter)
 
-app.use(express.static(path.resolve(__dirname, '../../client/build')));
+app.use(express.static(path.join(__dirname, '../../client/build')));
 
 app.get("/api", (req, res) => {
   res.json({ message: "Hello from server!" });

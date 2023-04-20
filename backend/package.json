@@ -5,8 +5,8 @@
     "main": "index.js",
     "type": "module",
     "scripts": {
-        "start": "node index.js",
-        "build": "npm install && npm run build",
+        "start": "node backend/index.js",
+        "build": "cd client && npm i --legacy-peer-deps && npm run build",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "author": "",
