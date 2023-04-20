@@ -34,8 +34,10 @@ function App() {
             .then((data) => {
                 if (data?.status === 404) {
                     setMessage(data.message)
+                    setData([])
                 } else {
                     setData(data)
+                    setMessage('')
                 }
             })
             .catch((err) => {
@@ -122,8 +124,8 @@ function App() {
                     </Grid>
                 </Box>
             </Container>
-            {data.length > 0 ? (
-                <TableContainer component={Paper}>
+            {data?.length > 0 ? (
+                <TableContainer key={Math.random()} component={Paper}>
                     <Table>
                         <TableHead>
                             <TableRow>
