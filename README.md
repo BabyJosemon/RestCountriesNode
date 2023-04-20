@@ -13,6 +13,7 @@
     <li>
       <a href="#installation">Installation</a>
     </li>
+    <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
 
@@ -21,7 +22,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://rest-countries-client.onrender.com)
 
 
-This is an application made to practice MERN stack development. Developed using a React frontend  that communicates with a NodeJS backend running express that uses the [RESTCountry API](https://restcountries.com/#rest-countries). The backend is in the 'backend' package and the frontend is in the 'client' package. The app is live on Render.com instead of Heroku [HERE](https://rest-countries-client.onrender.com). 
+This is an application made as a part of [Bounce Insights](https://bounceinsights.com/) Software Engineer Intern coding challenge. Developed using a React frontend  that communicates with a NodeJS backend running express that uses the [RESTCountry API](https://restcountries.com/#rest-countries). The backend is in the 'backend' package and the frontend is in the 'client' package. The app is live on Render.com instead of Heroku [HERE](https://rest-countries-client.onrender.com). 
 
 ### Built With
 * [![React][React.js]][React-url]
@@ -50,7 +51,13 @@ For client:
 Note: When running locally you will have to change the fetch url to reflect your localhost instead of the deployment URL.
 
 
+## Contact
 
+Name - [Josemon Baby](https://github.com/BabyJosemon) - babyjosemon77@gmail.com
+
+Project Link: [https://github.com/BabyJosemon/RestCountriesNode](https://github.com/BabyJosemon/RestCountriesNode)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 [product-screenshot]: images/screenshot.png
