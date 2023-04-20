@@ -7,11 +7,14 @@ import cors from 'cors';
 
 const app = express()
 const __dirname = path.dirname(new URL(import.meta.url).pathname);
-const corsOptions = {
-    origin: 'https://rest-countries-client.onrender.com',
-    credentials: true,
+
+const allowedOrigins = ['https://rest-countries-client.onrender.com'];
+const options = {
+  origin: allowedOrigins
 };
-app.use(cors(corsOptions))
+
+app.use(cors(options));
+
 app.use(morganMiddleware)
 
 const PORT = process.env.PORT || 3001
