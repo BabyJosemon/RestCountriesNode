@@ -22,7 +22,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://rest-countries-client.onrender.com)
 
 
-This is an application made as a part of [Bounce Insights](https://bounceinsights.com/) Software Engineer Intern coding challenge. Developed using a React frontend  that communicates with a NodeJS backend running express that uses the [RESTCountry API](https://restcountries.com/#rest-countries). The backend is in the 'backend' package and the frontend is in the 'client' package. The app is live on Render.com instead of Heroku [HERE](https://rest-countries-client.onrender.com). 
+This is an application made to learn MERN stack. Developed using a React frontend  that communicates with a NodeJS backend running express that uses the [RESTCountry API](https://restcountries.com/#rest-countries). The backend is in the 'backend' package and the frontend is in the 'client' package. The app is live on Render.com instead of Heroku [HERE](https://rest-countries-client.onrender.com). 
 
 ### Built With
 * [![React][React.js]][React-url]
